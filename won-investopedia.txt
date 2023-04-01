@@ -1,0 +1,124 @@
+Adam Smith and "The Wealth of Nations"
+What was the most important document published in 1776? Most Americans would probably say "The Declaration of Independence." However, many would argue that Adam Smith's The Wealth of Nations had a bigger and more global impact. 
+
+On March 9, 1776, An Inquiry into the Nature and Causes of the Wealth of Nations—commonly referred to simply as The Wealth of Nations—was first published.1 Smith, a Scottish moral philosopher by trade, wrote the book to describe the industrialized capitalist system that was upending the mercantilist system.
+
+Mercantilism held that wealth was fixed and finite. The only way to prosper was to hoard gold and place tariffs on products from abroad. According to this theory, nations should sell their goods to other countries while buying nothing in return. Predictably, countries fell into rounds of retaliatory tariffs that choked off international trade.
+
+Key Takeaways
+
+The central thesis of Smith's The Wealth of Nations is that our individual need to fulfill self-interest results in societal benefit.
+He called the force behind this fulfillment the invisible hand.
+Self-interest and the division of labor in an economy result in mutual interdependencies that promote stability and prosperity through the market mechanism.
+Smith rejected government interference in market activities.
+He believed that a government's three functions should be to protect national borders, enforce civil law, and engage in public works (e.g., education).
+Adam Smith: The Father of Economics
+
+Smith's Primary Thesis
+
+The core of Smith's thesis was that humans' natural tendency for self-interest (or in modern terms, looking out for yourself) results in prosperity.
+
+Smith argued that by giving everyone the freedom to produce and exchange goods as they pleased (free trade) and opening the markets up to domestic and foreign competition, people's natural self-interest would promote greater prosperity than could stringent government regulations.2
+
+Smith believed humans ultimately promote public interest through their everyday economic choices. In The Wealth of Nations he wrote:
+
+He generally, indeed, neither intends to promote the public interest nor knows how much he is promoting it. By preferring the support of domestic to that of foreign industry, he intends only his own security; and by directing that industry in such a manner as its produce may be of the greatest value, he intends only his own gain; and he is in this, as in many other cases, led by an invisible hand to promote an end which was no part of his intention.2
+This free-market force which Adam Smith called the invisible hand needed support to bring about its magic. In particular, the market that emerged from an increasing division of labor, both within production processes and throughout society, created a series of mutual interdependencies. These relationships promoted social welfare through individual profit motives.2
+
+In other words, if you specialize as a baker and produce only bread, you must rely on somebody else for your clothes, your meat, and your beer. Meanwhile, the people that specialize in clothes must rely on you for their bread, and so on. Prosperity emanates from the market that develops when people need goods and services that they can't create themselves.
+
+Adam Smith is generally regarded as the father of modern economics.
+
+The Invisible Hand
+
+The automatic pricing and distribution mechanisms in the economy (Smith's invisible hand) interact directly and indirectly with centralized, top-down planning authorities.
+
+Human Nature vs. Government Policy
+
+The invisible hand is not an actual, distinguishable entity. Instead, it is the sum of many phenomena that occur naturally when consumers and producers engage in commerce. Smith's insight was one of the most important in the history of economics. It remains one of the chief justifications for free-market ideologies.2
+
+Modern interpretations of the invisible hand theorem suggest that the means of production and distribution should be privately owned and that if trade occurs unfettered by regulation, in turn, society will flourish organically. These interpretations compete with the concept and function of government.2
+
+Government is not serendipitous. It is prescriptive and intentional. Politicians, regulators, and those who exercise legal force (such as the courts, police, and military) pursue defined goals through coercion.
+
+In contrast, macroeconomic forces—supply and demand, buying and selling, profit and loss—occur voluntarily until government policy inhibits or overrides them. In this sense, it is accurate to conclude that government affects the invisible hand, not the other way around.
+
+Government Interference in Free Markets
+
+The absence of market mechanisms frustrates government planning. Some economists refer to this as the economic calculation problem.
+
+When people and businesses make decisions based on their willingness to pay money for a good or service, that information is captured dynamically in the price mechanism. This, in turn, allocates resources automatically toward the most valued ends.
+
+When governments interfere with this process, unwanted shortages and surpluses tend to occur. Consider the massive gas shortages in the United States during the 1970s. The then newly formed Organization of Petroleum Exporting Countries (OPEC) cut production to raise oil prices. The Nixon and Ford administrations responded by introducing price controls to limit the cost of gasoline to American consumers. The goal was to make cheap gas available to the public.3
+
+Instead, gas stations had no incentive to stay open for more than a few hours. Oil companies had no incentive to increase production domestically. Consumers had every incentive to buy more gasoline than they needed. Large-scale shortages and gas lines resulted. Those gas lines disappeared almost immediately after controls were eliminated and prices were allowed to rise.
+
+While some might be tempted to say that the invisible hand limits government, that wouldn't necessarily be correct. Rather, the forces that guide voluntary economic activity toward large societal benefit are the same forces that limit the effectiveness of government intervention.
+
+Enlightened self-interest refers to the concept that regard for one's own good prompts a person to assist in promoting the good of others.
+
+Smith's Elements of Prosperity
+
+Smith believed a nation needed the following three elements to bring about universal prosperity.
+
+1. Enlightened Self-Interest
+
+Smith wanted people to practice thrift, hard work, and enlightened self-interest. He thought the practice of enlightened self-interest was natural for the majority of people.
+
+In his famous example, a butcher does not supply meat based on good-hearted intentions, but because he profits by selling meat. If the meat he sells is poor, he will not have repeat customers and, thus, no profit.
+
+Therefore, it's in the butcher's interest to sell good meat at a price that customers are willing to pay, so that both parties benefit in every transaction.
+
+Smith believed that a long term point of view would keep most businesses from abusing customers. When that wasn't enough, he looked to government to enforce laws.2
+
+Likewise, Smith saw thrift and savings as important virtues, especially when savings were invested. Through investment, industry would have the capital to buy more labor-saving machinery and encourage innovation. This technological leap forward would increase returns on invested capital and raise the overall standard of living.
+
+2. Limited Government
+
+Smith saw the responsibilities of the government as being limited to the defense of the nation, universal education, public works (infrastructure such as roads and bridges), the enforcement of legal rights (property rights and contracts), and the punishment of crime.2
+
+The government should step in when people acted on their short-term interests. It should make and enforce laws against robbery, fraud, and other, similar crimes. Smith cautioned against larger, bureaucratic governments, writing, "there is no art which one government sooner learns of another, than that of draining money from the pockets of the people."2
+
+Smith believed that the role of universal education was to counteract the negative and dulling effects of the division of labor that was a necessary part of industrialization. 
+
+3. Solid Currency and Free-Market Economy
+
+The third element Smith proposed was a solid currency twinned with free-market principles. By backing currency with hard metals, Smith hoped to curtail the government's ability to depreciate currency by circulating more of it. In turn, this could curb wasteful expenditures (such as spending on wars).2
+
+With hard currency acting as a check on spending, Smith wanted the government to follow free-market principles. These included keeping taxes low and eliminating tariffs to allow for free trade across borders. He pointed out that tariffs and other taxes only succeeded in making life more expensive for the people while stifling industry and trade abroad.2
+
+Smith’s Theories Overthrow Mercantilism
+
+To drive home his point about the damaging nature of tariffs, Smith used the example of making wine in Scotland. He pointed out that good grapes could be grown in Scotland in hothouses. Yet the extra costs of heating would make Scottish wine 30 times more expensive than French wines. It would be far better, he reasoned, to trade something Scotland had in abundance, such as wool, for French wine.2
+
+France may have had a competitive advantage in producing wine. However, tariffs aimed at creating and protecting a Scottish wine industry would just waste resources and cost the public money.
+
+Faults of "The Wealth of Nations"
+
+The Wealth of Nations is a seminal book that represents the birth of free-market economics, but it's not without faults. It lacks proper explanations for pricing or a theory of value. Also, Smith failed to see the importance of the entrepreneur in breaking up inefficiencies and creating new markets.
+
+Both the opponents of and believers in Adam Smith's free-market capitalism have added to the thesis of The Wealth of Nations. Like any good theory, free-market capitalism gets stronger with each reformulation, whether prompted by friend or foe.
+
+Marginal utility, comparative advantage, entrepreneurship, the time-preference theory of interest, monetary theory, and many other pieces have been added to the whole since 1776.
+
+There is still work to be done as the size and interconnectedness of the world's economies spur new and unexpected challenges to free-market capitalism.
+
+Who Was Adam Smith?
+
+Adam Smith was a philosopher and economic theorist born in Scotland in 1723. He's known primarily for his groundbreaking 1776 book on economics called An Inquiry into the Nature and Causes of the Wealth of Nations. Smith introduced the concept that free trade would benefit individuals and society as a whole. He believed that governments should not impose policies that interfered with free trade, domestically and abroad.
+
+What Was Smith's Invisible Hand?
+
+Adam Smith referred to the natural forces that guided self-interest to fulfill people's and society's needs on its own, without government intervention, as the invisible hand.
+
+What Does Free-Market Capitalism Mean?
+
+Free-market capitalism is an economic system that supports the free flow of capital and exchange of goods between individuals and nations without governments intervening to control that flow. In a free market, people in the market will price goods and services more effectively than a government.
+
+The Bottom Line
+
+The publishing of The Wealth of Nations marked the birth of modern capitalism as well as modern economics. Oddly enough, Adam Smith, the champion of the free market, spent the last years of his life as the Commissioner of Customs, responsible for enforcing all the tariffs.4 He took his work to heart and burned many of his clothes when he discovered they had been smuggled into shops from abroad.
+
+Historical irony aside, his invisible hand continues to be a powerful force today. Smith overturned the miserly view of mercantilism and gave us a vision of plenty and freedom for all.
+
+The free market he envisioned, though not yet fully realized, may have done more to raise the global standard of living than any other single idea in history.
